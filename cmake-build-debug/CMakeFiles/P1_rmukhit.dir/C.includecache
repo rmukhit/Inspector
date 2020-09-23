@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rabigamukhit/Desktop/CS326/P1-rmukhit/inspector.c
+ctype.h
+-
+dirent.h
+-
+fcntl.h
+-
+limits.h
+-
+math.h
+-
+pwd.h
+-
+stdbool.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+unistd.h
+-
+dirent.h
+-
+
